@@ -1,0 +1,25 @@
+{
+  "name": "playwr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanShapar26/7.3-playwright.git"
+  },
+  "author": "Roman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanShapar26/7.3-playwright/issues"
+  },
+  "homepage": "https://github.com/RomanShapar26/7.3-playwright#readme",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.12.3",
+    "jest": "^29.0.0",
+    "playwright": "^1.25.1"
+  }
+}
